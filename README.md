@@ -123,7 +123,7 @@ You can adjust file paths, names, or additional details to fit your specific nee
 
 ---
 
-This README follows GitHub's markdown guidelines and provides a clear, organized summary of the repository, installation steps, and usage instructions. Let me know if you need further assistance via onur.erdogan@metu.edu.tr.
+This README follows GitHub's markdown guidelines and provides a clear, organized summary of the repository, installation steps, and usage instructions. Let me know if you need further assistance via onur.erdogan@metu.edu.tr and/or yesim@metu.edu.tr
 
 
 
