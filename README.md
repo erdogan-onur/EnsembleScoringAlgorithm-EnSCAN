@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib openpyxl
 
 ## Installation
 1.	Clone the repository to your local machine:
-2.	git clone https://github.com/onurer007/Ensembl.git
+2.	git clone https://github.com/erdogan-onur/EnsembleScoringAlgorithm-EnSCAN.git
 3.	Navigate into the project directory:
 4.	cd SNPData
 5.	Install the necessary Python libraries (as mentioned in Prerequisites).
@@ -117,7 +117,7 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 You can adjust file paths, names, or additional details to fit your specific needs. Let me know if you'd like further customizations!
 
 ## Instructions on How to Use This “README”:
-1. Replace the GitHub repository URL (“https://github.com/onurer007/Ensembl.git”) with your own repository link if you have already created one on GitHub.
+1. Replace the GitHub repository URL (“https://github.com/erdogan-onur/EnsembleScoringAlgorithm-EnSCAN.git”) with your own repository link if you have already created one on GitHub.
 2. In the “How To Use” section, ensure that the paths (like “C:/Users/<yourname>/Desktop/SNPDataset.xlsx”) match the actual locations of your files.
 3. If you need to modify the script (e.g., change file paths or other specifics), make sure to update the instructions accordingly.
 
